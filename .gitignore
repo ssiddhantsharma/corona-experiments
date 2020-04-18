@@ -1,0 +1,10 @@
+.idea/
+.ipynb_checkpoints/
+data/bigd/
+data/viprbrc/
+venv/
+data/*.py
+cache.csv
+data/images/genome.png
+.cache*
+data/gisaid/
