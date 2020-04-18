@@ -1,4 +1,4 @@
-# Coronavirus Reverse Engineering
+# Coronavirus Experiments
 
 The idea of this repo is to compile as much information as possible about the the coronavirus family, 
 in particular about SARS-CoV-2. This includes genome sequences, protein structures and other resources available online.
